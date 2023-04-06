@@ -1,2 +1,1 @@
-# curso-henry
-este es un reporitorio de prueba del modulo 2 del curso de henry
+ este es un proyecto d prueba de como crear un repoitorio y clonarlo desde RA github a mi computadora 
